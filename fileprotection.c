@@ -47,7 +47,7 @@ int main()
     if(test == -1)
       printf("Error! Operation cannot be completed.\n");
     else
-      printf("Read, write, and execute premissions successfully set to owner.\n\n");
+      printf("Read, write, and execute permissions successfully set to owner.\n\n");
     printf("Press <enter> key to continue.");
     getchar();
     break;
@@ -59,7 +59,7 @@ int main()
     if(test == -1)
       printf("Error! Operation cannot be completed.\n");
     else
-      printf("Read, write, and execute premissions successfully set to everyone.\n\n");
+      printf("Read, write, and execute permissions successfully set to everyone.\n\n");
     printf("Press <enter> key to continue.");
     getchar();
     break;
